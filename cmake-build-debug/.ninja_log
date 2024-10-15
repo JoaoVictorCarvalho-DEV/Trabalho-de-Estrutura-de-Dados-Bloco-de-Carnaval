@@ -1,0 +1,11 @@
+# ninja log v6
+66	556	7502902419214483	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste01/teste_1.c.obj	e41a5e3f7e419294
+85	571	7502902419403953	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste02/teste_2.c.obj	8982a7a483fde33a
+113	735	7502902419693195	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste03/teste_3.c.obj	e3590e0e19b336a7
+559	1285	7502902424151284	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste04/teste_4.c.obj	902459282b1eed89
+571	1320	7502902424270924	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste05/teste5.c.obj	575ffdfb7d82d3cc
+736	1486	7502902425916524	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste06/teste6.c.obj	6416db5a4d1f38e9
+1320	1734	7502902431750918	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste08/teste8.c.obj	201ab9681e142bd5
+1285	1766	7502902431411829	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste07/teste7.c.obj	889a36c5f8ba0094
+1486	1880	7502902433416464	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste09/teste9.c.obj	db941a80d43f9ea5
+1735	2024	7502902435899818	CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir/Menu_Veículo/Teste10/teste10.c.obj	be03e0a9ae783516

@@ -1,0 +1,3 @@
+C:/Users/Jarvis 3.0/Documents/GitHub/Trabalho-de-Estrutura-de-Dados-Bloco-de-Carnaval/cmake-build-debug/CMakeFiles/Trabalho_de_Estrutura_de_Dados_Bloco_de_Carnaval.dir
+C:/Users/Jarvis 3.0/Documents/GitHub/Trabalho-de-Estrutura-de-Dados-Bloco-de-Carnaval/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jarvis 3.0/Documents/GitHub/Trabalho-de-Estrutura-de-Dados-Bloco-de-Carnaval/cmake-build-debug/CMakeFiles/rebuild_cache.dir
